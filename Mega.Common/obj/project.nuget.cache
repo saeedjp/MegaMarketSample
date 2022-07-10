@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFgQbc7HiSAMJb1TflJQA50izg/sfKCNN9UjkZNocs1neNnTRQKWm4CZUcEbn1dRRp6UR9iI8FFP4LCPdCHWZw==",
+  "success": true,
+  "projectFilePath": "F:\\education\\c#\\MidLevel\\MegaMarketSample\\Mega.Common\\Mega.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0-preview.3.21201.13\\microsoft.aspnetcore.cryptography.internal.6.0.0-preview.3.21201.13.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0-preview.3.21201.13\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0-preview.3.21201.13.nupkg.sha512"
+  ],
+  "logs": []
+}
